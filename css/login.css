@@ -1,0 +1,110 @@
+
+.article_bg{
+	overflow:hidden;
+	margin-top:60px;
+	margin-bottom:40px;
+	
+}
+#reg{
+	width:525px;
+	float:left;
+	border-right:5px solid #00abef;
+	padding-right:30px;
+}
+#log{
+	width:470px;
+	float:left;
+	padding-left:30px;
+	text-align:center;
+	
+	
+}
+
+
+#article_title{
+	text-align:center;
+	background:#00abef;
+	color:white;
+	border-radius:15px 15px 0 0;
+}
+
+#article_title h1{
+	font-family:TW Cen MT;
+}
+#article_title p{
+	background:yellow;
+	color:black;
+	font-family:TW Cen MT;
+}
+form{
+	font-family:gill Sans mt;
+	font-size:1.5em;
+	line-height:2em;
+	padding:10px;
+	color:#606568;
+}
+form label{
+	display:block;
+	text-align:center;
+}
+#r{
+	font-size:1em;
+}
+input{
+	float:right;
+	width:350px;
+	height:38px;
+	margin-top:-4px;
+	border-radius:10px;
+	padding:5px;
+	font-family:Arial;
+	font-size:19px;
+	border:2px solid gray;
+}
+#log input{
+	float:none;
+	
+}
+#log a{
+	float:left;
+	text-decoration:none;
+	font-family:agency fb;
+	font-size:17px;
+}
+
+hr{
+	margin-top:15px;
+}
+input[type=submit]
+{
+	margin-top:20px;
+	width:200px;
+	height:60px;
+	background:#1ec010;
+	border:1px solid #029b0ed;
+	font-size:23px;
+	color:#ddd;
+	border-radius:30px;
+}
+button{
+	float:right;
+	margin-right:56px;
+	margin-top:20px;
+	width:200px;
+	height:60px;
+	background:#1ec010;
+	border:1px solid #029b0ed;
+	font-size:23px;
+	color:#ddd;
+	border-radius:30px;
+}
+
+	
+	
+
+
+
+
+
+
+
